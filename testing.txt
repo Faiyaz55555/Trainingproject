@@ -1,0 +1,5 @@
+1. Agile -: Agile is an approach to project management and software development that helps teams to deliver faster and efficiently.
+
+2. Scrum-: Scrum is a framework that helps teams to implement agile methodology.
+
+3. Sprints-: In scrum the project is built into series of iteration called Sprints.We beakdown big, complex projects into smaller pieces and each piece is worked upon in a sprint.
